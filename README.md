@@ -1,6 +1,8 @@
 # Realtime Chat App
 
-Realtime Chat App is a platform where users can chat with their friends in real time. The project is built using modern web technologies to ensure a seamless and responsive user experience.
+Realtime Chat App is a platform where users can chat with their friends in real time. The project is built using modern web technologies to ensure a seamless and responsive user experience. To use it click ➡️ [Chat](https://realtime-chat-app-1-veis.onrender.com/)
+
+![chat-app](https://github.com/xlr8nur/realtime-chat-app/assets/97341887/f7f98774-3611-4e1e-8c23-acd5dff1031f)
 
 ## Table of Contents
 
